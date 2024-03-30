@@ -8,3 +8,4 @@ langchainhub==0.1.15
 streamlit==1.32.2
 SQLAlchemy==2.0.29
 requests==2.31.0
+duckduckgo_search
